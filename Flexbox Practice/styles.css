@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+body {
+  background-image: url(images/backlit-dawn-fog-2088210.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  letter-spacing: 0.07em;
+  font-size: 3.5em;
+  font-style: oblique;
+  text-align: center;
+  color: #504658;
+  text-decoration: underline;
+  text-decoration-color: #ffaac3;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+  margin: 15px;
+}
